@@ -25,14 +25,6 @@ pip install tkcalendar matplotlib
 4.Run the code:
 2_Internship_prog.py
 5.The code creates and uses a transactions.csv file in the same folder to store your financial data.
-Sample UI Screenshots
-Main window: Add Transaction & Budget Set
 
-Filter & Transaction History Table
-
-Pie Charts: Income & Expense Distribution
-
-
-Bar Chart: Budget vs Spent
 
 
