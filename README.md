@@ -28,17 +28,17 @@ The purpose of this project is to help users:
 **How to Run**
 
 1. Clone this repository
-   git clone https://github.com/porwalaastha1411/finance-tracker.git
+   git clone https://github.com/porwalaastha1411/finance-tracker-Code.git
 
-2. Navigate to project folder
+3. Navigate to project folder
    Finance-Tracker-Code
 
 
-3. Install dependencies
+4. Install dependencies
    pip install  matplotlib
   pip install calendar
 
-4. Run the application
+5. Run the application
    Finance_Tracker.py
 
 **Author**
