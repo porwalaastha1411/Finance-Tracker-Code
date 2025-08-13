@@ -31,12 +31,12 @@ The purpose of this project is to help users:
    git clone https://github.com/porwalaastha1411/finance-tracker-Code.git
 
 3. Navigate to project folder
-   Finance-Tracker-Code
+   cd Finance-Tracker
 
 
 4. Install dependencies
    pip install  matplotlib
-  pip install calendar
+   pip install calendar
 
 5. Run the application
    Finance_Tracker.py
